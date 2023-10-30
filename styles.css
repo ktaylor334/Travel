@@ -1,0 +1,36 @@
+.title {
+    color: red;
+    background-size: cover; 
+    background-color: floralwhite;
+    text-align: center;
+    font-size: 50px
+}
+
+.topic{
+    text-align: center;
+    background-color: floralwhite;
+    font-size: 30px;
+    color: red;
+}
+
+.paragraph {
+    text-align: center;
+    background-color: red;
+    font-family: fantasy;
+    color: floralwhite;
+}
+
+.location{
+    text-align: center;
+    background-color: floralwhite;
+    font-family: fantasy;
+    color: red;
+}
+
+.fun{
+    text-align: center;
+    background-color: red;
+    font-family: fantasy;
+    color: floralwhite;
+}
+
